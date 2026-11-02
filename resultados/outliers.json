@@ -1,0 +1,12 @@
+{
+ "outliers_iniciales": 104,
+ "outliers_iniciales_%": 20.6,
+ "umbral_similitud": 0.654,
+ "criterio_umbral": "percentil 25 de la similitud miembro-centroide",
+ "reasignados": 41,
+ "outliers_finales": 63,
+ "outliers_finales_%": 12.5,
+ "coincidencia_con_reduce_outliers_%": 100.0,
+ "sim_mediana_outliers": 0.624,
+ "sim_mediana_no_outliers": 0.716
+}

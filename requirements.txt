@@ -1,0 +1,12 @@
+bertopic==0.17.4
+umap-learn==0.5.12
+hdbscan
+scikit-learn
+pandas
+matplotlib
+scipy
+plotly
+stop-words
+sentence-transformers
+onnxruntime             # opcional: solo para la ruta ONNX sin Hugging Face
+tokenizers

@@ -1,0 +1,23 @@
+.
+├─corazón_dios_palabra_mano_muchacha
+│    ├─■──palabra_dígamelo_basta_continúe_escribiría ── Topic: 11
+│    └─corazón_dios_mano_muchacha_amor
+│         ├─■──amo_ama_corazón_perdóneme_amor ── Topic: 6
+│         └─corazón_dios_palabra_mano_podía
+│              ├─dios_corazón_mujer_palabras_decirle
+│              │    ├─■──mujer_dios_decirle_clase_timidez ── Topic: 2
+│              │    └─■──corazón_llore_exclamé_quiero_culpa ── Topic: 1
+│              └─■──mano_ojos_repente_muchacha_hablar ── Topic: 0
+└─abuela_mañana_vida_casa_día
+     ├─vida_sueños_petersburgo_soñador_feliz
+     │    ├─■──feliz_sueños_futuro_contenta_quizá ── Topic: 9
+     │    └─vida_petersburgo_soñador_ciudad_sueños
+     │         ├─■──vida_soñador_sueños_mundo_sueño ── Topic: 5
+     │         └─■──petersburgo_ciudad_sentí_verano_día ── Topic: 4
+     └─abuela_mañana_carta_inquilino_casa
+          ├─mañana_carta_casa_horas_llegar
+          │    ├─■──carta_mañana_quizá_venir_mañana mañana ── Topic: 10
+          │    └─■──casa_horas_llegar_vendré_venga ── Topic: 7
+          └─abuela_inquilino_joven_preguntó_viejos
+               ├─■──lecciones_empezar_palabras_pensé_daré ── Topic: 8
+               └─■──abuela_inquilino_joven_preguntó_viejos ── Topic: 3

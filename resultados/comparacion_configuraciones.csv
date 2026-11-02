@@ -1,0 +1,4 @@
+configuracion,min_cluster_size,ngram_range,nr_topics,n_topicos,outliers_%,NPMI_medio,diversidad
+C1_gruesa,15,"(1, 1)",—,8,31.9,-0.283,0.938
+C2_fina,10,"(1, 2)",—,13,20.8,-0.348,0.9
+C3_reducida,10,"(1, 2)",8,7,20.8,-0.215,0.886

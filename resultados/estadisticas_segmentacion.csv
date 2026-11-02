@@ -1,0 +1,13 @@
+,valor
+parrafos_originales,355.0
+parrafos_partidos,57.0
+segmentos_brutos,533.0
+eliminados_<5_palabras,28.0
+eliminados_duplicados,0.0
+segmentos_finales,505.0
+palabras_media,36.6
+palabras_mediana,31.0
+palabras_min,5.0
+palabras_max,142.0
+tokens_media,59.1
+segmentos_>128_tokens,4.0
